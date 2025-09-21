@@ -1,7 +1,6 @@
 
-# RISC-V Reference SoC Tapeout Program VSD
-###Tools Installation
-A brief description of what this project does and who it's for
+# RISC V SoC Tapeout Program VSD
+
 
 
 ## Tools Installation
