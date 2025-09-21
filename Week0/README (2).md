@@ -44,15 +44,15 @@ $ sudo make install
 $ sudo apt-get update
 $ sudo apt-get install iverilog
 ```
-![Alt Text]([![i-verilog-2.png](https://i.postimg.cc/g2QSjBhB/i-verilog-2.png)](https://postimg.cc/9DPtNbJG)
+[![i-verilog-2.png](https://i.postimg.cc/g2QSjBhB/i-verilog-2.png)](https://postimg.cc/9DPtNbJG)
 
-###GTKWAVE
+###  GTKWAVE
 ```
 $ sudo apt-get update
 $ sudo apt install gtkwave
 
 ```
-![Alt Text]([![gtkwave3-Copy.png](https://i.postimg.cc/fTXj5TS5/gtkwave3-Copy.png)](https://postimg.cc/4mf9xG5h)
+[![gtkwave3-Copy.png](https://i.postimg.cc/fTXj5TS5/gtkwave3-Copy.png)](https://postimg.cc/4mf9xG5h)
 ## Lessons Learned
 
 Installed Ubuntu and configured open-source tools like Yosys, GTKWave, and Icarus Verilog for digital design.
